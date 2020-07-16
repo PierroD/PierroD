@@ -1,4 +1,6 @@
-### Hi there, I'm Pierre DUVEAU
+### Hi there, 👋
+<br/>
+### I'm Pierre DUVEAU
 
 <a href="https://www.linkedin.com/in/pierre-duveau-193586182">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
