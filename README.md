@@ -1,5 +1,4 @@
 ### Hi there, 👋
-<br />
 ### I'm Pierre DUVEAU
 
 <a href="https://www.linkedin.com/in/pierre-duveau-193586182">
