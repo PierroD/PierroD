@@ -5,7 +5,8 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br />
+<br/>
+
 
 - 👨‍💻 20 Years old Developer
 - 👨‍🎓 Studying Computer Science here in France
