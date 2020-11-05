@@ -11,6 +11,7 @@
 
 ### Languages and Tools
 
+<p algin="left">
 <img alt="visualstudio" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"  width="40" height="40">
 <img alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="40" height="40">
 <img alt="vb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png"  width="40" height="40">
@@ -30,7 +31,7 @@
 <img alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  width="40" height="40">
 <img alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"  width="40" height="40">
 <img alt="gitlab" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"  width="40" height="40">
-
+</p>
 
 
   <div align="center">
