@@ -3,7 +3,7 @@
 ### I'm Pierre DUVEAU - aka LINDRA
 
 
-- 👨‍💻 21 Years old Developer
+- 👨‍💻 22 Years old Developer
 - 👨‍🎓 Studying Computer Science here in France
 - 🌱 I’m currently learning everything :rofl:
 
